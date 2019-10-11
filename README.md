@@ -34,13 +34,13 @@ I went ahead and wired up the direction and step pins to a couple GPIO pins on m
 
 The result:
 
-![Motor Gif](https://media.giphy.com/media/W4jBaTZqaiAU1boCwX/giphy.gif)
+[Motor Gif](https://i.imgur.com/doPhKrc.mp4)
 
 Success! The motor does get a little warm, though... definitely within spec, and it's absolutely able to dissipate that heat on its own without additional cooling.
 
 I did feel like a motor on its own was a tad boring, however, so I figured I'd also try out my new seven-segment display and 74HC595 shift register to add a counter for each step of the program.
 
-![Motor and Display Gif](https://media.giphy.com/media/Z9tHZ96F3BLgLRk6bE/giphy.gif)
+[Motor and Display Gif](https://i.imgur.com/doPhKrc.mp4)
 
 There... that's better! I even made the decimal point into an indicator for whether or not the motor was currently in motion.
 
