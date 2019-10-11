@@ -40,7 +40,7 @@ Success! The motor does get a little warm, though... definitely within spec, and
 
 I did feel like a motor on its own was a tad boring, however, so I figured I'd also try out my new seven-segment display and 74HC595 shift register to add a counter for each step of the program.
 
-[Motor and Display Gif](https://i.imgur.com/doPhKrc.mp4)
+[Motor and Display Gif](https://i.imgur.com/cnuRWWy.mp4)
 
 There... that's better! I even made the decimal point into an indicator for whether or not the motor was currently in motion.
 
