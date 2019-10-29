@@ -42,8 +42,8 @@ I did feel like a motor on its own was a tad boring, however, so I figured I'd a
 
 [Motor and Display Gif](https://i.imgur.com/cnuRWWy.mp4)
 
-There... that's better! I even made the decimal point into an indicator for whether or not the motor was currently in motion.
+There... that's better! I even made the decimal point into an indicator for whether or not the motor was currently in motion. All of this only uses 5 out of the 15 available GPIO pins on the STM32F030F4P6, which leaves plenty of room for more peripherals.
 
-Conclusion... Nema 17 motors are easy to drive and very fun to play with! There's still more to play with, like hooking the microstep pins up to the STM32 so I can adjust the motor resolution on-the-fly to combine quick position-finding movement with slow, precision movement.
+Conclusion... Bipolar stepper motors are easy to drive and very fun to play with! There's still more to play with, like hooking the microstep pins up to the STM32 so I can adjust the motor resolution on-the-fly to combine quick position-finding movement with slow, precision movement.
 
 I need to figure out a project to use these in, in the future...
